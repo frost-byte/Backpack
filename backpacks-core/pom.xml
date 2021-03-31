@@ -20,7 +20,7 @@
         <maven.compiler.release>8</maven.compiler.release>
         <bstats.version>1.5</bstats.version>
         <acf.version>0.5.0-SNAPSHOT</acf.version>
-        <guava.version>27.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
     </properties>
 
     <repositories>
